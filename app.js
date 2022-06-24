@@ -21,7 +21,7 @@ app.get("/", function(req, res){
 //Setting up MailChimp
 mailchimp.setConfig({
     //*****************************API KEY******************************
-    apiKey: "xxxxxxxxxxxxxxxxxx",
+    apiKey: "",
     //*****************************API KEY PREFIX******************************
     server: "us5"
 });
