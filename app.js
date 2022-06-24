@@ -23,7 +23,7 @@ mailchimp.setConfig({
     //*****************************API KEY******************************
     apiKey: "",
     //*****************************API KEY PREFIX******************************
-    server: "us5"
+    server: ""
 });
 
 //As soon as the sign in button is pressed execute this
@@ -33,7 +33,7 @@ app.post("/", function (req,res) {
     const lastName = req.body.lName;
     const email = req.body.email;
     //*****************************LIST ID******************************
-    const listId = "76675adafd";
+    const listId = "";
     //Creating an object with the users data
     const subscribingUser = {
         firstName: firstName,
