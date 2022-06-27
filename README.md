@@ -14,6 +14,8 @@
 + Node.js & npm packages:
   * Express.js
   * Request
+  * Mailchimp
++ Mailchimp API
 + Responsive design & Media Queries
 + Code with accessibility
 + Conventions & Best Practices
