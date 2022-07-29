@@ -6,4 +6,22 @@
 
 ---
 
+### What's included
+
++ Basic codes of HTML5 & CSS3
++ JavaScript syntax & Basic Constructs
++ Implementation of the CSS framework Bootstrap 5
++ Node.js & npm packages:
+  * Express.js
+  * Request
+  * Mailchimp
++ Mailchimp API
++ Responsive design & Media Queries
++ Code with accessibility
++ Conventions & Best Practices
++ Semantic Elements
++ Search engine optimization
+
+---
+
 <p align="center"><em>&copy; Alexandru Rudoi</em></p>
